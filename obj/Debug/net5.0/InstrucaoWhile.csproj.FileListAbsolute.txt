@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\InstrucaoWhile\bin\Debug\net5.0\InstrucaoWhile.exe
+C:\xampp\htdocs\udemy\InstrucaoWhile\bin\Debug\net5.0\InstrucaoWhile.deps.json
+C:\xampp\htdocs\udemy\InstrucaoWhile\bin\Debug\net5.0\InstrucaoWhile.runtimeconfig.json
+C:\xampp\htdocs\udemy\InstrucaoWhile\bin\Debug\net5.0\InstrucaoWhile.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\InstrucaoWhile\bin\Debug\net5.0\InstrucaoWhile.dll
+C:\xampp\htdocs\udemy\InstrucaoWhile\bin\Debug\net5.0\ref\InstrucaoWhile.dll
+C:\xampp\htdocs\udemy\InstrucaoWhile\bin\Debug\net5.0\InstrucaoWhile.pdb
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\InstrucaoWhile.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\InstrucaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\InstrucaoWhile.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\InstrucaoWhile.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\InstrucaoWhile.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\InstrucaoWhile.dll
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\ref\InstrucaoWhile.dll
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\InstrucaoWhile.pdb
+C:\xampp\htdocs\udemy\InstrucaoWhile\obj\Debug\net5.0\InstrucaoWhile.genruntimeconfig.cache
